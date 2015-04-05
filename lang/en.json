@@ -5,19 +5,19 @@
     "datarestored": "Previously stored data successfully retrieved.",
     "greyuser": "Only bouncers and up can run a bot.",
     "bouncer": "The bot can't move people when it's run as a bouncer.",
-    "online": "/me %%BOTNAME%% v%%VERSION%% online!",
+    "online": "/me %%IT's FuckTime !%% v%%2.2.0%% online!",
 
 
-    "welcome": "/me Welcome %%NAME%%",
-    "welcomeback": "/me Welcome back, %%NAME%%",
-    "songknown": "/me @%%NAME%%, this song is in the DJ history.",
-    "timelimit": "/me @%%NAME%%, your song is longer than %%MAXLENGTH%% minutes, you need permission to play longer songs.",
-    "permissionownsong": "/me :up: @%%NAME%% has permission to play their own production!",
-    "isblacklisted": "/me This track is on the %%BLACKLIST%% blacklist! Skipping...",
+    "welcome": "/me Sveicin?ts/-a %%NAME%%",
+    "welcomeback": "/me Sveicin?ts/-a atpaka?!, %%NAME%%",
+    "songknown": "/me @%%NAME%%, ?? dziesma ir DJ v?stur?!.",
+    "timelimit": "/me @%%NAME%%, tava dziesma ir gar?ka par at?auto garumu, tev ir nepiecie?ama at?auja gar?k?m dziesm?m!",
+    "permissionownsong": "/me :up: @%%NAME%% It at??uja lai sp?l?tu savu produkciju!",
+    "isblacklisted": "/me ?? dziesma ir blacklist?! Skipping...",
 
 
-    "isopen": "/me The roulette is now open! Type !join to participate!",
-    "winnerpicked": "/me A winner has been picked! @%%NAME%% to position %%POSITION%%.",
+    "isopen": "/me Rulete ir s?kusies! Raksti !join lai pievienotos!",
+    "winnerpicked": "/me Uzvar?t?js tika izv?l?ts! @%%NAME%% uz poz?ciju %%POSITION%%.",
 
     "ball": "/me %%NAME%%'s question was: \"%%QUESTION%%\" and %%BOTNAME%%'s response is: \"%%RESPONSE%%\"",
 
