@@ -54,7 +54,7 @@
     var loadChat = function (cb) {
         if (!cb) cb = function () {
         };
-        $.get("https://rawgit.com/Swampie123/-PrivateBot-/master/basicBot.js", function (json) {
+        $.get("https://cdn.jsdelivr.net/gh/Swampie123/-PrivateBot-/basicBot.js", function (json) {
             var link = basicBot.chatLink;
             if (json !== null && typeof json !== "undefined") {
                 langIndex = json;
@@ -183,9 +183,9 @@
         status: false,
         name: "basicBot",
         loggedInID: null,
-        scriptLink: "https://rawgit.com/Yemasthui/basicBot/master/basicBot.js",
+        scriptLink: "https://cdn.jsdelivr.net/gh/Yemasthui/basicBot/basicBot.js",
         cmdLink: "http://git.io/245Ppg",
-        chatLink: "https://rawgit.com/Swampie123/-PrivateBot-/master/lang/en.json",
+        chatLink: "https://cdn.jsdelivr.net/gh/Swampie123/-PrivateBot-/lang/en.json",
         chat: null,
         loadChat: loadChat,
         retrieveSettings: retrieveSettings,
@@ -193,7 +193,7 @@
         settings: {
             botName: "basicBot",
             language: "english",
-            chatLink: "https://rawgit.com/Swampie123/-PrivateBot-/master/lang/en.json",
+            chatLink: "https://cdn.jsdelivr.net/gh/Swampie123/-PrivateBot-/lang/en.json",
             startupCap: 1, // 1-200
             startupVolume: 0, // 0-100
             startupEmoji: false, // true or false
